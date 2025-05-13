@@ -18,7 +18,6 @@ Splitzy is a mobile app that helps users manage and split group expenses, making
 - **Flutter**: Framework used for building the cross-platform mobile app.
 - **Dart**: Programming language used for writing the app.
 - **Firebase Firestore**: Cloud-based NoSQL database for storing user and group data.
-- **setState**: Flutter's built-in method for managing state locally within the app.
 
 ## Installation
 
