@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777805466659",
+    "project_id": "expense-faf46",
+    "storage_bucket": "expense-faf46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777805466659:android:b398a3bdfe13af933bf596",
+        "android_client_info": {
+          "package_name": "com.example.expense_splitter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkSEldJR240lo4ogsVVMfIsrGFFWsT7vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
